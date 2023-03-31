@@ -1,0 +1,91 @@
+
+body{
+	background-color: #FFFFFF;
+	font-family: 'Lora', serif;
+	font-weight: 500;
+	color: #1A120B;
+	letter-spacing: normal;
+	word-spacing: 3px;
+	line-height: 1.7;
+	text-align: justify;
+}
+
+h1{
+	font-family: 'Bodoni Moda', serif;
+	font-size: 45px;
+	text-align: center;
+	letter-spacing: 2px;
+	font-size: big;
+}
+h2{
+	text-align: center;
+	font-size: 25px;
+}
+
+h3{
+	font-weight: 600;
+	font-size: 20px;
+}
+h2,h3{
+	font-family: 'Raleway', sans-serif;
+	text-transform: uppercase;
+	color: #867070;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+#mainpic{
+    border-radius: 10px 100px / 120px; 
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#map{
+    border-radius: 4px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#page-center{
+	width: 1200px;
+	margin: 10px auto;
+}
+
+#h1-box{
+	background-color: #F9F5E7;
+}
+
+.description-box{
+	background-color: rgba(249, 245, 231, 1);
+	width: 1200px;
+	padding: 5px;
+}
+
+.description-box-2{
+	width: 1200px;
+	padding: 5px;
+	background-color: rgba(249, 245, 235,0.5);
+}
+
+#h2-box{
+	background-color: rgba(249, 245, 235,0.5);
+	width: 1209px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
